@@ -1,5 +1,5 @@
 ---
-title: "Mauauauauauaa"
+title: "Mauauauauaua"
 image: "tobi.jpg"
 links:
   - label: LinkedIn
